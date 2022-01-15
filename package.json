@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "parcel": "^1.12.4"
   },
   "dependencies": {
